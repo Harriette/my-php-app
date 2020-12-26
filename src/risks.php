@@ -45,6 +45,7 @@
 
      <div class="container">
        <h2>User Management</h2>
+       <p>Please manage users here.</p>
        <table class="table table-striped">
          <thead>
            <tr>
